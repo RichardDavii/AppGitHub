@@ -1,0 +1,109 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container-geral{
+  width: 1900px;
+  height: 1000px;
+  background-image: url(https://th.bing.com/th/id/R.2badfefd0b19c6bf64e15e83e3d702a0?rik=1yFuk%2f52CvtSmg&pid=ImgRaw&r=0);
+}
+
+.container{
+  width: 100%;
+  
+}
+
+header{
+ width: 100%;
+ height: 40px;
+  display: flex;
+  color: black;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+
+
+
+
+#imgGit{
+  width: 32px;
+  height: 32px;
+}
+
+main{
+  margin-top: 10px;
+  width: 100%;
+  height: 900px;
+
+}
+
+.form{
+  width: 100%;
+  height: 200px;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+
+
+#imgbtn{
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: 0.3s;
+  margin-left: 5px;
+}
+
+
+
+input{
+  width: 250px;
+  height: 30px;
+  border: 1px;
+  border-radius: 4px;
+  transition: 0.4s;
+}
+
+input:focus{
+  transition: 0.4s;
+}
+
+
+.conteudo{
+  margin: 12px;
+  width: 90%;
+  height: 600px;
+ 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.conteudo2{
+  width: 700px;
+  display: flex;
+  align-items: center;
+  border: 1px solid white;
+  color: white;
+  background-color: black;
+  padding: 20px;
+}
+
+.conteudo2 img{
+  width: 200px;
+  border-radius: 1000px;
+  margin-right: 50px;
+  
+}
+
