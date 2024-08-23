@@ -71,6 +71,7 @@ input{
   border: 1px;
   border-radius: 4px;
   transition: 0.4s;
+  padding: 3px;
 }
 
 input:focus{
@@ -101,8 +102,9 @@ input:focus{
 }
 
 .conteudo2 img{
-  width: 200px;
-  border-radius: 1000px;
+  width: 220px;
+  border-radius: 50%;
+  height: 220px;
   margin-right: 50px;
   
 }
